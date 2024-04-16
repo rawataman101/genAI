@@ -1,3 +1,2 @@
 # genAI
-
-Python for Programmers
+Gen AI techniques particularly Prompt Engineering, Model Fine tuning, RAG and Orchestration are the next set of programming practices which will bring in the paradigm shift to how the information is requested and provided. All the mundane tasks, information procssesing/automations or how Data within the enterprise is processed and augmented , how an application is developed, Software development lifecycle as we know today and how user interacts with the data are all set for transformational shift.
